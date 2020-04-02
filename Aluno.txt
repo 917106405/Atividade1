@@ -1,1 +1,2 @@
 RA=917106405
+Curso= Sistemas de informação
